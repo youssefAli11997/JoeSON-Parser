@@ -1,5 +1,3 @@
-package eg.edu.alexu.csd.oop.draw.cs73.model;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
